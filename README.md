@@ -14,7 +14,7 @@ This project was developed as part of the **COMP551 Machine Learning** course at
 - **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
 - **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
 
-📄 **LaTeX Documentation**: You can find the detailed documentation [here](RegressionDocumentation.pdf) 
+📄 **LaTeX Documentation**: You can find the detailed documentation [here](RegressionModels.pdf) 
 
 ---  
 
