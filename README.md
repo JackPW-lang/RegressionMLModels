@@ -7,8 +7,7 @@
 
 In this repository, you can find our implementations (from scratch) of Linear Regression and Logistic Regression, both adapted for binary and multiple classification purposes. We also provide a link to the colab where we run the experiments, and write other code for data preprocessing and experimental purposes. Our findings and results are professionally documented in LaTeX, with the file available below.
 
-## 👥 Collaborators  
-This project was developed as part of the **COMP551 Machine Learning** course at **McGill University**.  
+## 👥 Collaborators    
 
 - **Jack Parry-Wingfield** - [GitHub Profile](https://github.com/JackPW-lang)  
 - **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
