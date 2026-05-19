@@ -7,13 +7,13 @@
 
 In this repository, you can find our implementations (from scratch) of Linear Regression and Logistic Regression, both adapted for binary and multiple classification purposes. We also provide a link to the colab where we run the experiments, and write other code for data preprocessing and experimental purposes. Our findings and results are professionally documented in LaTeX, with the file available below.
 
-## 👥 Collaborators    
+## Collaborators    
 
 - **Jack Parry-Wingfield** - [GitHub Profile](https://github.com/JackPW-lang)  
 - **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
 - **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
 
-📄 **LaTeX Documentation**: You can find the detailed documentation [here](RegressionModels.pdf) 
+**LaTeX Documentation**: You can find the detailed documentation [here](RegressionModels.pdf) 
 
 ---  
 
@@ -33,6 +33,6 @@ This repository contains the following Python files:
 -  **Preprocessing & Experimentation**: Code for processing two datasets (one for binary classification, one for multi-class) and evaluating model performance.  
   - 📂 **Run it yourself**: [Open in Google Colab](https://colab.research.google.com/drive/18zqlU5_RuwYe_ZyoGB2Wi34rBFdSMaQ5#scrollTo=o3ydbzzhASbn)   
 
-📄 Detailed results and dataset preprocessing details are included in the documentation.  
+Detailed results and dataset preprocessing details are included in the documentation.  
 
 ---  
